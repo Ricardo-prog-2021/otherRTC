@@ -1,2 +1,2 @@
 # otherRTC
-skyway basci test
+skyway basic test
